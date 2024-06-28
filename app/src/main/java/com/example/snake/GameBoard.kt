@@ -2,7 +2,7 @@ package com.example.snake
 
 object GameBoard {
     const val COLUMNS = 12
-    const val ROWS = 20
+    const val ROWS = 12
 
     val board: Set<Point>
         get() {
